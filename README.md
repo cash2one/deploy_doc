@@ -1,2 +1,2 @@
-# deploy_doc
+# Lazy Document
 > 懒人手册
